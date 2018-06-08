@@ -5,7 +5,7 @@ This plugin exposes the functionality of D-Link's DCH-S220 Siren as a Switch.
 
 ## Install
 
- * ```sudo npm install -g homebridge-dchs220-siren```
+ * ```sudo npm install -g homebridge-dlink-siren```
 * Create an accessory in your config.json file
 * Restart homebridge
 
