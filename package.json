@@ -12,6 +12,11 @@
   "engines": {
     "homebridge": ">=0.2.5"
   },
+  "homepage": "https://github.com/mtflud/homebridge-dchs220-siren",
+  "repository": { 
+    "type" : "git", 
+    "url" : "https://github.com/mtflud/homebridge-dchs220-siren.git"
+  },
   "author": "mtflud",
   "license": "ISC",
   "dependencies": {
