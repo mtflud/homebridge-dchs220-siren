@@ -1,6 +1,6 @@
 {
   "name": "homebridge-dlink-siren",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Homebridge plugin for D-Link's DCH-S220 Wi-Fi Siren",
   "main": "index.js",
   "scripts": {
